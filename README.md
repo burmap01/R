@@ -11,3 +11,10 @@ which generates the data. Mispriced_Diamonds_markdown.Rmd file is provided here 
 
 **Law of Large Numbers**.      
 This project consists of selecting random numbers, whhich lie between 1 and -1 and whose mean is close to 68. The python notebook, *Law of Large numbers.Rmd*, has the code to this project.
+
+**Machine Learning Template**.      
+This project sets the template which can be used for all Machine Learning downstream analysis. This involves removing NaN values, encodiing categorical variables.    
+and splitting the dataset into training and test set. This project has 2 files uploaded:
+    1. Machine Learning template.R.
+    2. Data.csv.
+Machine Learning template.R is the R script for Data.csv.
